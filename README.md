@@ -22,9 +22,6 @@ If something looks unfinished, it probably is — on purpose.
 Working on problems that show up in hackathons and demos  
 but quietly fail in real usage.
 
-The goal isn’t to “solve everything”,  
-just to understand one part deeply and build it properly.
-
 ---
 
 Scroll down — the code says more than this page ever could.
